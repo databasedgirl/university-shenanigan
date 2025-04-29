@@ -1,7 +1,7 @@
 # Elabore um programa python que receba um texto e escreva as palavras que não tem a vogal a. Não é repetido repetir a mesma palavra.
 
 # Autor: Databasedgirl
-# Repo: https://github.com/databasedgirl/university-shenanigan/blob/main/topicos_avancados/1.py
+# Repo: https://github.com/databasedgirl/university-shenanigan/blob/main/topicos_avancados
 # Data: 29/04/2025
 
 print("Insira um texto aqui")
