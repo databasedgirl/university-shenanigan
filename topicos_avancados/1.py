@@ -13,7 +13,7 @@ ou seja, se o resto da divisão por 3 é igual a zero.
 '''
 
 # Autor: Databasedgirl
-# Repo: https://github.com/databasedgirl/university-shenanigan/blob/main/topicos_avancados/1.py
+# Repo: https://github.com/databasedgirl/university-shenanigan/blob/main/topicos_avancados
 # Data: 29/04/2025
 
 lst = []
