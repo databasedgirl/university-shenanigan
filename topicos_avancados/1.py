@@ -12,6 +12,10 @@ ou seja, se o resto da divisão por 3 é igual a zero.
 
 '''
 
+# Autor: Databasedgirl
+# Repo: https://github.com/databasedgirl/university-shenanigan/blob/main/topicos_avancados/1.py
+# Data: 29/04/2025
+
 lst = []
 for i in range(1,101): # Deve ser 101 ou o resultado de print(i) terá o final 99 ao invés de 100
     if(not i % 3 == 0):
