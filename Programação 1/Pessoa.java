@@ -7,6 +7,12 @@ import java.util.Calendar;
 public class Pessoa {
     private String nome;
     private int anoNascimento;
+
+    Pessoa(String nome,int anoNascimento){
+        this.nome = nome;
+        this.anoNascimento = anoNascimento;
+    }
+
     public int calcularIdade(){
         int anoAtual = Calendar.getInstance().get(Calendar.YEAR);
         return anoAtual - this.anoNascimento;
