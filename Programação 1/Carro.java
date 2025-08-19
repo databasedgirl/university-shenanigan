@@ -40,15 +40,5 @@ public class Carro {
     public int getAno(){
         return this.ano;
     }
-
-    /* MÉTODOS MISC */
-    public static String exibirDetalhes(){
-
-        return "";
-    }
-
-    public static String exibirProprietarioECarro(){
-
-        return "";
-    }
 }
+
